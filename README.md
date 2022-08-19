@@ -7,9 +7,10 @@ DevOps for AI/ML @[ZOHO Corp](https://www.zoho.com/)
 
 In my role as a DevOps developer, I come across problems in deploying, managing and scaling ML/DL applications. I am gathering experience with the cloud design patterns, where I had a focus on containerization of applications to minimize the variation in runtime environment in different deployments. Today I concentrate on privacy and compliance ascepts of the ML/DL applications.
 
-In my spare time I had built a short range radio communication system to understand the manchester encoding and data transmission in a wireless network. 
 
 ## :compass: Find me on the web
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Manikandan_Balasubramanian?theme=default&font=baloo&extension=null)
 
 You can find and follow me on:
 
