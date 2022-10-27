@@ -5,7 +5,9 @@ DevOps for AI/ML @[ZOHO Corp](https://www.zoho.com/)
  
 ## :superhero_man: About Me
 
-In my role as a DevOps developer, I come across problems in deploying, managing and scaling ML/DL applications. I am gathering experience with the cloud design patterns, where I had a focus on containerization of applications to minimize the variation in runtime environment in different deployments. Today I concentrate on privacy and compliance ascepts of the ML/DL applications.
+In my role as a DevOps developer, I came across problems in deploying, managing and scaling ML/DL applications. I gathered experience with the cloud design patterns, where I focused on containerization of applications to minimize the variation in runtime environment in different deployments. Later as a Security and Privacy coordinator, I concentrated on privacy and compliance aspects of the ML/DL applications.
+
+Today as an AI cybersecurity Engineer, I’m responsible for AI security strategy and defining the best-in-class cybersec standards for our AI platform and the AI solutions built on top of it.
 
 
 ## :compass: Find me on the web
