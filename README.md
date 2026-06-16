@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dbdd3651-3cd2-47e9-a200-951c6408058d" alt="Manikandan" width="180">
+  <img src="https://github.com/user-attachments/assets/dbdd3651-3cd2-47e9-a200-951c6408058d" alt="Manikandan" align="right" width="40%">
   
   # Hi, I'm Manikandan Balasubramanian 👋
     
@@ -11,7 +10,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-balasubramanian-5335a562/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManikandanBalasubramanian)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mostwantedmani2)
-</div>
 
 ---
 
